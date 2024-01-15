@@ -1,5 +1,5 @@
 # Kali Linux Operating System 
-A presentation providing an overview of the Kali Linux operating system along with a PDF document containing essential codes for usage in Kali Linux.
+- A presentation providing an overview of the Kali Linux operating system along with a PDF document containing essential codes for usage in Kali Linux.
 
 ![Kali](https://github.com/onurkya7/Algorithms_for_Julia/assets/100594545/4b560c50-bea4-47dd-ad04-177f4549d1fc)
 
